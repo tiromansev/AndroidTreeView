@@ -2,7 +2,7 @@ package com.unnamed.b.atv.example.activity;
 
 import android.app.Fragment;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.unnamed.b.atv.example.R;
 
